@@ -29,19 +29,17 @@
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "robotics",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "environmental engineering",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "computer hardware",
       "keywords": [
       ]
     }
@@ -52,11 +50,7 @@
       "level": "",
       "keywords": [
         "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "C++"
       ]
     },
     {
