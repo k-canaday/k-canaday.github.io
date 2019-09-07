@@ -13,3 +13,4 @@ labels:
 summary: My partner and I developed a puzzle alarm clock where you must solve a puzzle to turn the alarm off.
 ---
 
+<img class="ui medium right floated rounded image" src="../images/ee296-1.jpg">
