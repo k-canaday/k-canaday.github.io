@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: 
+image: k-canaday.github.io/images/ee296-1.jpg
 title: Arduino Puzzle Alarm Clock
-permalink: k-canaday.github.io/images/ee296-1.jpg
+permalink: 
 # All dates must be YYYY-MM-DD format!
 date: 2018-12-12
 labels:
