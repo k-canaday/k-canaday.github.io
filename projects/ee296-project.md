@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/ee296-1.jpg
 title: Arduino Puzzle Alarm Clock
-permalink: projects/puzzlealarmclock
+permalink: projects/arduino
 # All dates must be YYYY-MM-DD format!
 date: 2018-12-12
 labels:
