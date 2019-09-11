@@ -12,9 +12,7 @@ labels:
   - Salamander
 summary: I researched and learned how to create an aquarium with optimal conditions to care for fish and a salamander larvae.
 ---
-<div class="ui large rounded images">
-  <img class="ui image" src="../images/aquarium-1.jpg">
-</div>
+
 
 At the beginning of this year I decided that I wanted to give it a go at creating an aquarium. Throughout my research I learned many important aspects of creating and maintaining an aquarium. However, the most important aspect that I took from all my research that almost every resource stressed was the nitrogen cycle. As explained by Thomas Reich, "the Nitrogen Cycle is a biological process that involves the continual circulation of nitrogenous compounds such as ammonia, nitrite, and nitrate to process wastes in the natural water." Basically, the fish produce waste, and to process this waste there are specialized bacteria in the water that use it as a food source. If your aquarium is properly maintained your ammonia and nitrite levels should be near zero and your nitrate levels should be less than 10 ppm. Most fish are very hardy creatures and can usually survive in conditions higher than noted, although prolonged exposure to these higher conditions greatly increases the risks of sickness and death.
 
