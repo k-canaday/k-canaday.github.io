@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/aquarium-1.jpg
+image: 
 title: Creating an Aquarium
 permalink: projects/aquarium
 # All dates must be YYYY-MM-DD format!
