@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Javascript through the eyes of a Computer Engineer
+title: Javascript Through the Eyes of a Computer Engineer
 date: 2019-09-06
 labels:
   - Javascript
