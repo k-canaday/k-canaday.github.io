@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: How much Power does a Question Hold
+title: How much Power does a Question Hold?
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-12
 labels:
@@ -9,7 +9,7 @@ labels:
   - Smart Questions
 ---
 
-## How Powerful are Questions?
+## Are Questions really Powerful?
 
 Questions are some of the most powerful words ever. Questions about the unknown have led to some of the greatest inventions and discoveries of mankind. It doesn’t have to be an overly complicated question either. Sometimes, a simple “what if” is all it takes to make the impossible possible. Questions are also powerful as they are tools to help us extract information about a problem we may have from someone who possesses this information. This is very important to Software Engineers as we will undoubtedly run into problems all the time. However, a question is only as powerful as the amount of thought and effort that is put into it. You could have an amazing question. But, if you put little thought and effort to try and convey that question to others in a meaningful way then you will most likely receive little to no help.
 
