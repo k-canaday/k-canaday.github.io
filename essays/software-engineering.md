@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Shaping my future through Software Engineering
+title: Shaping my Future Through Software Engineering
 date: 2019-09-05
 labels:
   - Software Engineering
