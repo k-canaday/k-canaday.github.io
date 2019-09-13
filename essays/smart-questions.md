@@ -27,4 +27,4 @@ While searching StackOverflow I found this [question](https://stackoverflow.com/
 
 ## Conclusion
 
-A
+The line between a good question and a bad question can sometimes be as simple as not conveying the information properly or not conveying enough information. As Software Engineers, being able to properly ask a question is imperative if you wish to have a successful career. You will be able to solve problems more efficiently, be able to convey information to others more effectively, and will be able to help others in asking questions correctly.
