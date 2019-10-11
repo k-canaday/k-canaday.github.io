@@ -18,3 +18,7 @@ Many people think that learning a programming language begins and ends with the 
 ## My Views on Semantic UI
 
 Learning Semantic UI alongside HTML and CSS was very helpful for me as it enabled someone with little experience in both languages to create modern style web pages. The tools that were provided with Semantic UI made it very easy to format the webpage, change the colors of different objects, and insert images in any size. With raw HTML and CSS programming it took a lot of code just to make a 1980’s style web page with really bad formatting, so I’m very grateful that I am able to create a modern web page with the same amount of code.
+
+## UI Frameworks are a must for Software Engineers
+
+I believe that Software Engineers must learn a UI framework, especially in the programming language that they mainly code in. The only con to learning a UI framework is that it takes time to learn it. However, that con is heavily outweighted by the many pros that I explained previously. I think that it will also help Software Engineers to better broaden their skill set and maybe they can even learn new things about the programming language by using a UI framework.
