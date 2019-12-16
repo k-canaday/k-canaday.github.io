@@ -12,7 +12,7 @@ labels:
   - Salamander
 summary: I researched and learned how to create an aquarium with optimal conditions to care for fish and a salamander larvae.
 ---
-<div class="ui large rounded centered images">
+<div class="ui large rounded images">
   <img class="ui image" src="../images/aquarium-1.jpg">
 </div>
 
