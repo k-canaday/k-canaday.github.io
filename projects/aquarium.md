@@ -12,7 +12,7 @@ labels:
   - Salamander
 summary: I researched and learned how to create an aquarium with optimal conditions to care for fish and a salamander larvae.
 ---
-<div class="ui large rounded images">
+<div class="ui large rounded centered images">
   <img class="ui image" src="../images/aquarium-1.jpg">
 </div>
 
@@ -20,7 +20,7 @@ At the beginning of this year I decided that I wanted to give it a go at creatin
 
 The fish that I received were 5 zebra danios, 3 hatchetfish, 2 cory catfish, and a dwarf flame gourami. I also added in a few ghost shrimp that spend most of their time hidden. I was also really fascinated by and decided to raise a salamander larvae. The main difference between raising a salamander larvae and fish was that salamander larvae are very delicate and need a water temperature range of about 60 degrees Fahrenheit. In Hawaii where the average temperature is a stable 80 degrees Fahrenheit year round this posed a huge problem. By a stroke of luck one of my family members had a water chiller from a previous work project that wasn't currently being used so I was able to borrow it until my salamander morphed into his land-based form.
 
-<div class="ui large rounded images">
+<div class="ui large rounded centered images">
   <img class="ui image" src="../images/aquarium-2.jpg">
   <img class="ui image" src="../images/aquarium-3.jpg">
 </div>
