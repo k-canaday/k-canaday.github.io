@@ -10,7 +10,7 @@ labels:
   - Software Engineering Ethics
 ---
 
-## What was this Special Class?
+## What Class did I take?
 
 ## The Professional Skills I Acquired
 
