@@ -50,7 +50,10 @@
       "level": "",
       "keywords": [
         "C",
-        "C++"
+        "C++",
+        "Javascript",
+        "HTML",
+        "CSS"
       ]
     },
     {
@@ -60,7 +63,8 @@
         "Ubuntu",
         "Git/GitHub",
         "g++",
-        "Logicworks"
+        "Logicworks",
+        "IntelliJ"
       ]
     }
   ],
