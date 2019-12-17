@@ -14,8 +14,8 @@ summary: My partner and I developed a puzzle alarm clock where you must solve a 
 ---
 
 <div class="ui medium rounded images">
-  <img class="ui image" src="../images/ee296-1.jpg">
-  <img class="ui image" src="../images/ee296-2.jpg">
+  <img class="ui centered image" src="../images/ee296-1.jpg">
+  <img class="ui centered image" src="../images/ee296-2.jpg">
 </div>
 
 
