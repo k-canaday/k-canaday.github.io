@@ -3,7 +3,7 @@ layout: project
 type: project
 image: 
 title: Manoa Club Hunt
-permalink: projects/aquarium
+permalink: projects/club-hunt
 # All dates must be YYYY-MM-DD format!
 date: 2019-12-16
 labels:
