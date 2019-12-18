@@ -16,11 +16,11 @@ This Fall 2019 semester I took a course titled ICS 314. The subject for this cla
 Out of the many things I learned in this course I would say that the two most important skills that I gained outside of website development were agile project management and Software Engineering ethics. Agile project management is ___. Software Engineering ethics refers to making ethical decisions about the applications you work on and develop.
 
 ## The Applicability of these Skills
-Agile project management is very applicable in the real world as 
+Agile project management is a valuable skill in the workforce as 
 
 ## Applying Agile Project Management to Life 
 
-### Applying Software Engineering Ethics to Life
+## Applying Software Engineering Ethics to Life
 
 ## The Rewards of Software Engineering
  
